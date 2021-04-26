@@ -1,0 +1,1 @@
+Esta pasta será utilizada exclusivamente para armazenar as documentações relacionadas ao projeto.
